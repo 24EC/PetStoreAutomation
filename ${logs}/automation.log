@@ -1,0 +1,10 @@
+01.50.59.711[main] INFO  api.test.UserTests - ***************creating user************
+01.51.03.908[main] INFO  api.test.UserTests - ***************creating user************
+01.51.03.930[main] INFO  api.test.UserTests - ***************get user************
+01.51.06.013[main] INFO  api.test.UserTests - ***************get user************
+01.51.06.034[main] INFO  api.test.UserTests - ***************update user************
+01.51.06.036[main] INFO  api.test.UserTests - ***************update user************
+01.51.08.059[main] INFO  api.test.UserTests - ***************update user************
+01.51.14.505[main] INFO  api.test.UserTests - ***************update user************
+01.51.14.513[main] INFO  api.test.UserTests - ***************delete user************
+01.51.17.067[main] INFO  api.test.UserTests - ***************delete user************
